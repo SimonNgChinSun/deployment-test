@@ -1,6 +1,6 @@
 {
   "name": "deployment-test",
-  "homepage": "https://github.com/econstutor/deployment-test.git",
+  "homepage": "https://econstutor.github.io/deployment-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
